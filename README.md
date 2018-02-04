@@ -1,3 +1,3 @@
 # hello-world
 Git introduction
-Additional text
+This is my first git-project
